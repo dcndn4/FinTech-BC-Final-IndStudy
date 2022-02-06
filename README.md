@@ -10,6 +10,12 @@ With this work I'm planning to again utilize the Amazon Lex function for the cha
 
 # Task List
 
+[]  Coding of all transactions for day reviewed, any corrections communicated and confirmed
+
+[]  Costs per product line items updated (weekly)
+
+[]  In-kind donations booked to expense and donation, so costs included in strategic planning
+
 []  Cash Flow forecast prepared for tomorrow /n
 
 []  Dashboard metrics prepared for tomorrow
