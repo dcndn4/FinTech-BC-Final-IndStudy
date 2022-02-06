@@ -1,16 +1,18 @@
-# FinTech-BC-Final-IndStudy
-Final Project_FT BC _ Independent Study basis
+# Robo Reminder
+This project - a continuation of HW 10 AWS Unit 13 - its to support the process of a new accounting employee who has daily tasks that she doesn't want to miss on any day. So she has requested this robo-reminder, which she can run towards the end of the day, to make sure she hasn't missed anything. 
 
-# Continuation: HW-10-AWS-RoboAdv-U13
-RoboAdvisor HW 10 AWS Unit 13 - further progress
 
-Robo Advisor for Retirement Plans
 
 ![Robo Helper](pending image)
 
-Unit 13 Homework - Robo Advisor - continuation
 
-I am planning to engage in further study on these technologies, and see if I can move this project father along - the robo advisor to provide retirement advice, utilizing the Amazon Lex function for the chat box, the s3 buckets to hold the icons, and the lambda functionality to screen the data. 
+With this work I'm planning to again utilize the Amazon Lex function for the chat box, the s3 buckets to hold the icons, and the lambda functionality to screen/process the data, adding to the knowledge acquired earlier.  
+
+# Task List
+
+[]  Cash Flow forecast prepared for tomorrow /n
+
+[]  Dashboard metrics prepared for tomorrow
 
 
 # Technical Notes
