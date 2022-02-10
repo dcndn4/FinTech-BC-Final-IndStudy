@@ -8,7 +8,7 @@ This project - a continuation of HW 10 AWS Unit 13 - its to support the process 
 
 With this work I'm planning to again utilize the Amazon Lex function for the chat box, the s3 buckets to hold the icons, and the lambda functionality to screen/process the data, adding to the knowledge acquired earlier.  
 
-# Task List
+# Task List - Accounting/Finance employee of business
 
 []  Coding of all transactions for day reviewed, any corrections communicated and confirmed
 
@@ -19,6 +19,13 @@ With this work I'm planning to again utilize the Amazon Lex function for the cha
 []  Cash Flow forecast prepared for tomorrow /n
 
 []  Dashboard metrics prepared for tomorrow
+
+
+# Task List - Accounting/Finance contractor hired by entrepreneur to help with their personal and business finance
+
+[]  Year End Cycle - Pay Pal 1099 form - reconcile to internal records
+
+[]  Monthly Cycle - Sales Tax review of any internet purchases from small vendors - record transactions for reporting
 
 
 # Technical Notes
