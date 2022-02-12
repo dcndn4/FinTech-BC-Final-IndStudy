@@ -1,6 +1,14 @@
 # Robo Reminder
 This project - a continuation of HW 10 AWS Unit 13 - its to support the process of a new accounting employee who has daily tasks that she doesn't want to miss on any day. So she has requested this robo-reminder, which she can run towards the end of the day, to make sure she hasn't missed anything. 
 
+The more I think about it, the ongoing utility becomes clear. It's changing in my imagination to more of an ongoing process.
+
+There is always a need to prioritize any free time amongst competing demands. It would be interesting to have a robo-reminder (RR) do that as possible. 
+
+Here's how that would work (maybe a subsequent activity after this project iteration): I would launch the RR when I have a period of time free. It would ask some questions to determine tasks necessary and what the rest of the day looks like, and then it would present a triaged list of tasks for that period. And possibly a b-list for the later period that day as well. 
+
+So I'm thinking to consider both sorts of functionalities.
+
 
 
 ![Robo Helper](pending image)
