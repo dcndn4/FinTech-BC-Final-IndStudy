@@ -49,14 +49,16 @@ I am continuing to work in the 'Oregon' region, as we were told that one had the
 
 [] Versioning - enabled
 I'm worried that this might be one of those things that trips into more costs, but sounds like could be useful to keep multiple versions and not  lose anything accidentally. So I'll try it, and just closely monitor the costs dashboard. 
-[]] Tags - used for tracking costs more closely.. 
+
+[] Tags - used for tracking costs more closely.. 
 Since I live in accounting land, this sounds like a really good idea to me, but from the documentation scan I did, there's a lot to it. I think I'll have to hold off for now. 
+
 [] Encryption - also sounds like a great value-add, also more in-depth than I have the appetite for, so skipping for now (leaving as disabled).
 
 
 # Acknowledgements
 
-I would like to first acknowledge the guidance and teaching of our FinTech Boot Camp Instructor, Garth Mortensen, our Student Success Manager, Angelica Baraona; and the whole team behind the curriculum, the logistics, the whole program. I also found the collective Stack Overflow wisdom essential as ever.
+I would like to first acknowledge the guidance and teaching of our FinTech Boot Camp Instructor, Garth Mortensen, our T.A. Roberto Salazar Reyna; our Student Success Manager, Angelica Baraona; and the whole team behind the curriculum, the logistics, the whole program. I also found the collective Stack Overflow wisdom essential as ever. In addition, I'm starting to work through the 'AWS Certified Cloud Practitioner - Study Guide -Foundational  (CLF-C01) Exam' text by Sybex (Wiley).
 
 This project is for the purpose of my own ongoing learning, it is not a grading instance.
 
