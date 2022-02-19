@@ -44,9 +44,7 @@ With this work I'm planning to again utilize the Amazon Lex function for the cha
 
 # Technical Notes
 
-Working on this project included setting up an AWS account, setting up an IAM user, and starting to learn about *very* carefully navigating around the enormous universe that is AWS. It amazes me that you can build something, leave it there, go search for a different function, work on that, search for the previous technology, pick that up again and combine those, and then the 3rd thing.. very well crafted. Still overwhelming!
-
-I have the S3 bucket set as totally public, I'll leave everything in place until this assignment is graded or until there starts to be a charge on my account, whichever comes first (or for a week I'm thinking, at the longest). Then I'll go in and delete everything, to not accidentally incur hidden charges suddenly etc..
+I am continuing to work in the 'Oregon' region, as we were told that one had the set of functionalities that was the best fit for our activities - and am continuing with those same activities.
 
 
 # Acknowledgements
