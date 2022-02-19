@@ -1,5 +1,7 @@
 # Robo Reminder
-This project - a continuation of HW 10 AWS Unit 13 - its to support the process of a new accounting employee who has daily tasks that she doesn't want to miss on any day. So she has requested this robo-reminder, which she can run towards the end of the day, to make sure she hasn't missed anything. 
+This project - a continuation of HW 10 AWS Unit 13 - and even though it hasn't been that long, feels like forever ago! How does this all work again? Yikes.
+
+This project is to support the process of a new accounting employee who has daily tasks that she doesn't want to miss on any day. So she has requested this robo-reminder, which she can run towards the end of the day, to make sure she hasn't missed anything. 
 
 The more I think about it, the ongoing utility becomes clear. It's changing in my imagination to more of an ongoing process.
 
