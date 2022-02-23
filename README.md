@@ -83,6 +83,12 @@ Sample Utterances -- the wording that the user may use in expressing their inten
 
 Lambda program -- the connective tissue between the sample utterances, and the resulting actions of the bot. We used a python variant of lambda, noting that it was quite a different animal than the python language that we had been used to. I'm saving that part for when I've become more familiarized. 
 
+The three types of functionality that the lambda function can provide include:
+
+* Initialization (dialog code hook)
+[*] Validation (dialog code hook)
+[~] Fulfillment (fulfillment code hook)
+
 
 ## Termination:
 My notes from that first AWS homework/class period indicated that it was optimal to terminate services, but that's just too much work right now. Hoping that my usage will be minimal enough that I can skip that step and still not incur any costs. So far A-okay!
@@ -92,6 +98,8 @@ My notes from that first AWS homework/class period indicated that it was optimal
 I would like to first acknowledge the guidance and teaching of our FinTech Boot Camp Instructor, Garth Mortensen, our T.A. Roberto Salazar Reyna; our Student Success Manager, Angelica Baraona; and the whole team behind the curriculum, the logistics, the whole program. I also found the collective Stack Overflow wisdom essential as ever. In addition, I'm starting to work through the 'AWS Certified Cloud Practitioner - Study Guide -Foundational  (CLF-C01) Exam' text by Sybex (Wiley). And I have the 518 page Amazon Lex guide, so there's that. 
 
 Additional resources that have been provided or that I've come across in my process include the training resources from Deloitte's digital initiative. 
+
+I'm also more widely exploring readme formatting etc..
 
 This project is for the purpose of my own ongoing learning, it is not a grading instance.
 
