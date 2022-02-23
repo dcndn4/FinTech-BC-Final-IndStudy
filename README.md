@@ -47,6 +47,12 @@ From all of that info, it would instantly provide a list of 3-5 tasks that were 
 
 I don't know that I'll get that all done any time soon, but it seems like an instance of the journey being more important than the destination. 
 
+# Questions
+
+I will be noting questions along the way, to check off as I discover things during this process, or for future continued explorations.
+
+[] Is there a built-in time function within Lex or Lambda or something, so that my Robo-Reminder will always already know the date? I will need for it to know if it's week one of the month vs. week two vs. week three, and hopefully the day of the week as well. If there is not that built in, then I would need to have that be part of the dialogue. 
+
 
 # Technical Notes
 
