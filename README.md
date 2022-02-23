@@ -39,6 +39,14 @@ With this work I'm planning to again utilize the Amazon Lex function for the cha
 
 []  Monthly Cycle - Sales Tax review of any internet purchases from small vendors - record transactions for reporting
 
+# Logic/Decision tree
+
+To really complete this and make it work well, the lambda program would be a bit complex. It would take in the answers to the questions about what needed to be done today still; and based on the date, it would draw from it's internal programming regarding other tasks. It would also incorporate the amount of time available during this 'free time' session, and the percentage likelihood of there being a second 'free time' period later in the day. 
+
+From all of that info, it would instantly provide a list of 3-5 tasks that were most important in the current period.
+
+I don't know that I'll get that all done any time soon, but it seems like an instance of the journey being more important than the destination. 
+
 
 # Technical Notes
 
