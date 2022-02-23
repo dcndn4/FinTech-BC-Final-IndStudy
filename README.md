@@ -50,10 +50,10 @@ I don't know that I'll get that all done any time soon, but it seems like an ins
 
 # Technical Notes
 
-Region:
+## Region:
 I am continuing to work in the 'Oregon' region, as we were told that one had the set of functionalities that was the best fit for our activities - and am continuing with those same activities.
 
-Bucket setup (for slot images.. I think..):
+## Bucket setup (for slot images.. I think..):
 [] Versioning - enabled
 I'm worried that this might be one of those things that trips into more costs, but sounds like could be useful to keep multiple versions and not  lose anything accidentally. So I'll try it, and just closely monitor the costs dashboard. 
 
@@ -62,11 +62,19 @@ Since I live in accounting land, this sounds like a really good idea to me, but 
 
 [] Encryption - also sounds like a great value-add, also more in-depth than I have the appetite for, so skipping for now (leaving as disabled).
 
-Lex:
-This really still confuses me.. just barely got started on this last time, and didn't even get my notes added in here yet last session. So trying to get farther along on this tonite. 
+## Amazon Lex:
+Aspects of Amazon Lex that I'll be working with include:
+
+Bot -- the visible outcome that interacts with the user to achieve a goal
+
+Intent Name -- the request that the bot user is making to the bot (naming the goal)
+
+Sample Utterances -- the wording that the user may use in expressing their intent
+
+Lambda program -- the connective tissue between the sample utterances, and the resulting actions of the bot
 
 
-Termination:
+## Termination:
 My notes from that first AWS homework/class period indicated that it was optimal to terminate services, but that's just too much work right now. Hoping that my usage will be minimal enough that I can skip that step and still not incur any costs. So far A-okay!
 
 # Acknowledgements
