@@ -89,6 +89,8 @@ The three types of functionality that the lambda function can provide include:
 [*] Validation (dialog code hook)
 [~] Fulfillment (fulfillment code hook)
 
+Validation will come in to play in terms of timing of tasks, and confirming what day it is, when the various deadlines are, etc..
+
 
 ## Termination:
 My notes from that first AWS homework/class period indicated that it was optimal to terminate services, but that's just too much work right now. Hoping that my usage will be minimal enough that I can skip that step and still not incur any costs. So far A-okay!
@@ -97,9 +99,9 @@ My notes from that first AWS homework/class period indicated that it was optimal
 
 I would like to first acknowledge the guidance and teaching of our FinTech Boot Camp Instructor, Garth Mortensen, our T.A. Roberto Salazar Reyna; our Student Success Manager, Angelica Baraona; and the whole team behind the curriculum, the logistics, the whole program. I also found the collective Stack Overflow wisdom essential as ever. In addition, I'm starting to work through the 'AWS Certified Cloud Practitioner - Study Guide -Foundational  (CLF-C01) Exam' text by Sybex (Wiley). And I have the 518 page Amazon Lex guide, so there's that. 
 
-Additional resources that have been provided or that I've come across in my process include the training resources from Deloitte's digital initiative. 
+Additional resources that have been provided or that I've come across in my process include the training resources from Deloitte's digital initiative, and these videos on AWS workings: [AWS Free Tiers](https://youtu.be/7z4O-zZ6O4U), [SageMaker Setup](https://youtu.be/LJu74lRnpHM).
 
-I'm also more widely exploring readme formatting etc..
+I'm also more widely exploring readme formatting etc.. And also: I'm very glad I saved as many notes and path markers etc.. as I did at the time. At this point, I wish I had saved more of course. But every little bit helps.
 
 This project is for the purpose of my own ongoing learning, it is not a grading instance.
 
