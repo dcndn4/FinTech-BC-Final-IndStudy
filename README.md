@@ -69,9 +69,13 @@ Bot -- the visible outcome that interacts with the user to achieve a goal
 
 Intent Name -- the request that the bot user is making to the bot (naming the goal)
 
+Slot -- these are the details of the request that the user is making
+
+Slot type -- Description of the type of variable that is being used for each slot - numeric, date, string, etc..
+
 Sample Utterances -- the wording that the user may use in expressing their intent
 
-Lambda program -- the connective tissue between the sample utterances, and the resulting actions of the bot
+Lambda program -- the connective tissue between the sample utterances, and the resulting actions of the bot. We used a python variant of lambda, noting that it was quite a different animal than the python language that we had been used to. I'm saving that part for when I've become more familiarized. 
 
 
 ## Termination:
