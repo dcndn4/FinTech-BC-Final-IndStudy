@@ -91,6 +91,8 @@ The three types of functionality that the lambda function can provide include:
 
 Validation will come in to play in terms of timing of tasks, and confirming what day it is, when the various deadlines are, etc..
 
+I'm making use of the example bot to get back in the swing of all this - very helpful! Much appreciated.
+
 
 ## Termination:
 My notes from that first AWS homework/class period indicated that it was optimal to terminate services, but that's just too much work right now. Hoping that my usage will be minimal enough that I can skip that step and still not incur any costs. So far A-okay!
