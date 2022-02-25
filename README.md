@@ -91,7 +91,9 @@ The three types of functionality that the lambda function can provide include:
 
 Validation will come in to play in terms of timing of tasks, and confirming what day it is, when the various deadlines are, etc..
 
-I'm making use of the example bot to get back in the swing of all this - very helpful! Much appreciated.
+I'm making use of the example bot to get back in the swing of all this - very helpful! Much appreciated. Working through that reminds me that the bot (using the data in the slots only) replies the way it thinks it is supposed to, regardless of the text it is receiving. It doesn't actually recognize or process the actual content provided at all. 
+
+The functionality required to have the bot respond specifically to various text content aspects is the lambda functionality. I'm working my way towards reviewing that again soon. 
 
 
 ## Termination:
