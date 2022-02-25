@@ -91,7 +91,7 @@ The three types of functionality that the lambda function can provide include:
 
 Validation will come in to play in terms of timing of tasks, and confirming what day it is, when the various deadlines are, etc..
 
-I'm making use of the example bot to get back in the swing of all this - very helpful! Much appreciated. Working through that reminds me that the bot (using the data in the slots only) replies the way it thinks it is supposed to, regardless of the text it is receiving. It doesn't actually recognize or process the actual content provided at all. 
+I'm making use of the example bot to get back in the swing of all this - very helpful! Much appreciated. Working through that reminds me that the bot (using the data in the slots only) replies the way it thinks it is supposed to, regardless of the text it is receiving. It doesn't actually recognize or process the actual content provided at all. The correct terminology includes validating the data -- meaning that the lambda function will make sure the input text fits some pre-built text pattern that has been provided to it. Also initialization is involved - I'm less clear on what that refers to in this context. I guess like initializing variables, which are then modified in the process (as applicable)?..
 
 The functionality required to have the bot respond specifically to various text content aspects is the lambda functionality. I'm working my way towards reviewing that again soon. 
 
@@ -103,7 +103,7 @@ My notes from that first AWS homework/class period indicated that it was optimal
 
 I would like to first acknowledge the guidance and teaching of our FinTech Boot Camp Instructor, Garth Mortensen, our T.A. Roberto Salazar Reyna; our Student Success Manager, Angelica Baraona; and the whole team behind the curriculum, the logistics, the whole program. I also found the collective Stack Overflow wisdom essential as ever. In addition, I'm starting to work through the 'AWS Certified Cloud Practitioner - Study Guide -Foundational  (CLF-C01) Exam' text by Sybex (Wiley). And I have the 518 page Amazon Lex guide, so there's that. 
 
-Additional resources that have been provided or that I've come across in my process include the training resources from Deloitte's digital initiative, and these videos on AWS workings: [AWS Free Tiers](https://youtu.be/7z4O-zZ6O4U), [SageMaker Setup](https://youtu.be/LJu74lRnpHM).
+Additional resources that have been provided or that I've come across in my process include the training resources from Deloitte's digital initiative, and these videos on AWS workings: [AWS Free Tiers](https://youtu.be/7z4O-zZ6O4U), [SageMaker Setup](https://youtu.be/LJu74lRnpHM), as well as AWS example tools and exercises.
 
 I'm also more widely exploring readme formatting etc.. And also: I'm very glad I saved as many notes and path markers etc.. as I did at the time. At this point, I wish I had saved more of course. But every little bit helps.
 
