@@ -1,4 +1,4 @@
-![Robo Helper](https://github.com/dcndn4/FinTech-BC-Final-IndStudy/blob/main/Images/istockphoto-1333625894-170667a.jpg)
+<img src="https://github.com/dcndn4/FinTech-BC-Final-IndStudy/blob/main/Images/Figure%20out%20next%20steps.jpg" width="400" height="200">
 
 
 # Robo Reminder
