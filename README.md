@@ -1,4 +1,4 @@
-<img src="https://github.com/dcndn4/FinTech-BC-Final-IndStudy/blob/main/Images/Figure%20out%20next%20steps.jpg" alt="image of woman wiping glasses, between tasks" width="75%" height="50%"/>
+<img src="Images/Figure%20out%20next%20steps.jpg" alt="image of woman wiping glasses, between tasks" width="75%" height="50%"/>
 
 
 
@@ -11,11 +11,19 @@ The more I think about it, the ongoing utility becomes clear. It's changing in m
 
 There is always a need to prioritize any free time amongst competing demands. It would be interesting to have a robo-reminder (RR) do that as possible. 
 
+<img src="Images/Clock%20face%20image.jpg" alt="image of multiple clock faces" width="75%" height="75%"/>
+
 Here's how that would work (maybe a subsequent activity after this project iteration): I would launch the RR when I have a period of time free. It would ask some questions to determine tasks necessary and what the rest of the day looks like, and then it would present a triaged list of tasks for that period. And possibly a b-list for the later period that day as well. 
+
+(Images are an area I've mostly avoided up to now, so trying to get more comfortable with them. Perhaps would use this next set of images as choices in a section of the bot dialogue)
+
+<img src="Images/messy-office-desk.jpg" alt="very overloaded desk area" width="10%" height="10%"/> <img src="Images/messy-desk-office.jpg" alt="busy desk area" width="10%" height="10%"/> <img src="Images/To%20do%20list%20reminder.jpg" alt="clear desk A" width="10%" height="10%"/> <img src="Images/To%20do%20refresh%20me.jpg" alt="clear desk B" width="10%" height="10%"/>
 
 So I'm thinking to consider both sorts of functionalities.
 
 Another set of functionalities would be the remind-other-staff set -- maybe would be a whole different robot though.. or a robot that informed the main reminder-robot. So details to work out yet, but this would be about all the accounting system elements that I need from other staff in order to do my job.. which they know I need, but they haven't provided within the specified time frame. Which is fine, of course. They're all very busy as well of course. So they can rest easy knowing I'll remind them when it's past time. 
+
+<img src="Images/clean-desk-fresh.jpg" alt="fresh clean desk" width="10%" height="10%"/>
 
 But being aware of what isn't 'in' yet as soon as possible (always better to do sooner than later, so info is fresh in their minds etc..) is an ongoing challenge -- if I want until I actually need to urgently use it, then I might not have the right tone in the communication because it's throwing off my day, etc.. So I need to constantly scan kind of for things that are past due, and provide the most positive, constructive reminders possible to others. (This may need to be deleting sooner than later I'm realizing). So that robot aspect would be questions to me about what has been turned in, and when I answer no, then it provides me with a list potentially of reminders to send out. 
 
