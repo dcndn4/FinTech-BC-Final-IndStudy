@@ -99,6 +99,10 @@ The functionality required to have the bot respond specifically to various text 
 ## Termination:
 My notes from that first AWS homework/class period indicated that it was optimal to terminate services, but that's just too much work right now. Hoping that my usage will be minimal enough that I can skip that step and still not incur any costs. So far A-okay!
 
+## AWS Interface
+
+Every time I start up with AWS again, even after just a day or two, it's like 'what is all of this?', 'where are my things??' etc etc..I decided not to terminate services so that I could start up again more easily each session, but even so.. not so much. And I'm not a computer guru or anything, but I do use software all day long every day, including plenty of ugly, badly designed interfaces. Where's my stuff? That's all.. why isn't it just on a tab related to my account or something? Sigh. 
+
 # Acknowledgements
 
 I would like to first acknowledge the guidance and teaching of our FinTech Boot Camp Instructor, Garth Mortensen, our T.A. Roberto Salazar Reyna; our Student Success Manager, Angelica Baraona; and the whole team behind the curriculum, the logistics, the whole program. I also found the collective Stack Overflow wisdom essential as ever. In addition, I'm starting to work through the 'AWS Certified Cloud Practitioner - Study Guide -Foundational  (CLF-C01) Exam' text by Sybex (Wiley). And I have the 518 page Amazon Lex guide, so there's that. 
