@@ -1,4 +1,5 @@
-<img src="https://github.com/dcndn4/FinTech-BC-Final-IndStudy/blob/main/Images/Figure%20out%20next%20steps.jpg" width="400" height="200">
+<img src="https://github.com/dcndn4/FinTech-BC-Final-IndStudy/blob/main/Images/Figure%20out%20next%20steps.jpg" alt="image of woman wiping glasses, between tasks" width="75%" height="50%"/>
+
 
 
 # Robo Reminder
