@@ -86,7 +86,7 @@ Intent Name -- the request that the bot user is making to the bot (naming the go
 
 Slot -- these are the details of the request that the user is making
 
-Slot type -- Description of the type of variable that is being used for each slot - numeric, date, string, etc..
+Slot type -- Description of the type of variable that is being used for each slot - numeric, date, string, etc.. If it is a prebuilt Amazon type, then it will do validation inherent in that prebuilt functionality. If you tell it the slot is Amazon.number, and then during testing you provide an answer for that slot that is not a number, it will just ask again until you provide a number. Same with Date or Time. However if the Slot type is a custom type, then you need to also provide values for that and/or have it be variable. 
 
 Sample Utterances -- the wording that the user may use in expressing their intent
 
@@ -110,7 +110,7 @@ So, seems amazing, but the example flower-ordering bot does work (ignoring conte
 
 ## Slots
 
-So there are slots as a menu item, in the left bar of each of the bots, and then there are slots *within* the intent of each bot. Apparently those are two different things? I have one or more slots within each of the intents of each bot, but the flower bot also has a slot in the left menu (different from the slots in the intent) and the reminder bot doesn't have any slots in the menu bar. Perplexing. 
+The slots in the left bar are the more detailed constructions of the custom slots that are within the intent. 
 
 
 ## Termination:
