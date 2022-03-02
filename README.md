@@ -110,9 +110,11 @@ My notes from that first AWS homework/class period indicated that it was optimal
 
 ## AWS Interface
 
-Every time I start up with AWS again, even after just a day or two, it's like 'what is all of this?', 'where are my things??' etc etc..I decided not to terminate services so that I could start up again more easily each session, but even so.. not so much. And I'm not a computer guru or anything, but I do use software all day long every day, including plenty of ugly, badly designed interfaces. Where's my stuff? That's all.. why isn't it just on a tab related to my account or something? Sigh.  I'm actually wondering if my initial bot that I set up got erased or deleted or something, when I chose to utilize the example option.. If so, I wasn't warned that that would happen or anything. 
+Every time I start up with AWS again, even after just a day or two, it's like 'what is all of this?', 'where are my things??' etc etc..I decided not to terminate services so that I could start up again more easily each session, but even so.. Long story short - when I search for 'Lex Bot' the result is a screen that looks like I haven't done anything yet ... but if I click on 'New Start' or whatever the wording is, then I get to my existing bot(s). Whew!
 
 I was able to go into my bucket that I'd set up, add a folder for images, and upload the images that I have in this readme and others - to use as slot images in the future. That part really confused me the first time around - getting those assigned, and working. Hopefully better this time (when I get around to it). 
+
+So now I've got a bucket with images in it, and two bots - the beginning of my reminder bot, and an example bot about buying flowers. I have the two bots in two different detached web windows, to contrast and compare. I have slots in the flower bot, but not in my reminder bot yet. 
 
 # Acknowledgements
 
