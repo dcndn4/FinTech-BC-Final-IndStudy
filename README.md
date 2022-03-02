@@ -100,9 +100,15 @@ The three types of functionality that the lambda function can provide include:
 
 Validation will come in to play in terms of timing of tasks, and confirming what day it is, when the various deadlines are, etc..
 
+## Example Bot
+
 I'm making use of the example bot to get back in the swing of all this - very helpful! Much appreciated. Working through that reminds me that the bot (using the data in the slots only) replies the way it thinks it is supposed to, regardless of the text it is receiving. It doesn't actually recognize or process the actual content provided at all. The correct terminology includes validating the data -- meaning that the lambda function will make sure the input text fits some pre-built text pattern that has been provided to it. Also initialization is involved - I'm less clear on what that refers to in this context. I guess like initializing variables, which are then modified in the process (as applicable)?..
 
 The functionality required to have the bot respond specifically to various text content aspects is the lambda functionality. I'm working my way towards reviewing that again soon. 
+
+## Slots
+
+So there are slots as a menu item, in the left bar of each of the bots, and then there are slots *within* the intent of each bot. Apparently those are two different things? I have one or more slots within each of the intents of each bot, but the flower bot also has a slot in the left menu (different from the slots in the intent) and the reminder bot doesn't have any slots in the menu bar. Perplexing. 
 
 
 ## Termination:
