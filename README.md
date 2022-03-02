@@ -106,6 +106,8 @@ I'm making use of the example bot to get back in the swing of all this - very he
 
 The functionality required to have the bot respond specifically to various text content aspects is the lambda functionality. I'm working my way towards reviewing that again soon. 
 
+So, seems amazing, but the example flower-ordering bot does work (ignoring content).. seems like so little structure is provided yet it works. One new feature I've caught up with via this bot is the 'conversation flow' option - clicking on that arrow shows the steps within the intent/answer next intent/next answer through to fulfillment. Excellent!
+
 ## Slots
 
 So there are slots as a menu item, in the left bar of each of the bots, and then there are slots *within* the intent of each bot. Apparently those are two different things? I have one or more slots within each of the intents of each bot, but the flower bot also has a slot in the left menu (different from the slots in the intent) and the reminder bot doesn't have any slots in the menu bar. Perplexing. 
