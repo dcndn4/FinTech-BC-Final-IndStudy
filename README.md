@@ -48,6 +48,8 @@ With this work I'm planning to again utilize the Amazon Lex function for the cha
 
 []  Monthly Cycle - Sales Tax review of any internet purchases from small vendors - record transactions for reporting
 
+
+
 # Logic/Decision tree
 
 To really complete this and make it work well, the lambda program would be a bit complex. It would take in the answers to the questions about what needed to be done today still; and based on the date, it would draw from it's internal programming regarding other tasks. It would also incorporate the amount of time available during this 'free time' session, and the percentage likelihood of there being a second 'free time' period later in the day. 
@@ -99,6 +101,8 @@ The three types of functionality that the lambda function can provide include:
 [~] Fulfillment (fulfillment code hook)
 
 Validation will come in to play in terms of timing of tasks, and confirming what day it is, when the various deadlines are, etc..
+
+Response Cards -- This is a visual cue that prompts the user to make a choice between specified options. That was part of the original assignment, and I had trouble with it at the time. I really wanted to get that part down this time around. So am trying to do that, and it just is eluding me. The one thing says to click on the gear to the right of the intent - no gear. It references the editor in the left bar - no editor. I'm seeing helpful text sections within AWS, reading and saving those, it's just still not lining up for me. But I am learning that the message capabilities of the bot are quite extensive. 
 
 ## Example Bot
 
