@@ -118,7 +118,7 @@ My notes from that first AWS homework/class period indicated that it was optimal
 
 ## AWS Interface
 
-Every time I start up with AWS again, even after just a day or two, it's like 'what is all of this?', 'where are my things??' etc etc..I decided not to terminate services so that I could start up again more easily each session, but even so.. Long story short - when I search for 'Lex Bot' the result is a screen that looks like I haven't done anything yet ... but if I click on 'New Start' or whatever the wording is, then I get to my existing bot(s). Whew!
+Every time I start up with AWS again, even after just a day or two, it's like 'what is all of this?', 'where are my things??' etc etc..I decided not to terminate services so that I could start up again more easily each session, but even so.. Long story short - when I search for 'AWS Lex' the result is a screen has 'Amazon Lex' in a big splash screen, and it says 'get started'.. and I'm like - I've already started though?! So originally it was very perplexing. But now I just go ahead and  'New Start' or whatever the wording is, then I get to my existing bot(s). Whew!
 
 I was able to go into my bucket that I'd set up, add a folder for images, and upload the images that I have in this readme and others - to use as slot images in the future. That part really confused me the first time around - getting those assigned, and working. Hopefully better this time (when I get around to it). 
 
