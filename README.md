@@ -130,6 +130,10 @@ I was able to go into my bucket that I'd set up, add a folder for images, and up
 
 So now I've got a bucket with images in it, and two bots - the beginning of my reminder bot, and an example bot about buying flowers. I have the two bots in two different detached web windows, to contrast and compare. I have slots in the flower bot, but not in my reminder bot yet. 
 
+# Class Presentation
+
+I had vaguely been thinking I could perhaps do a short presentation for my classmates on my AWS work, particularly I was thinking just to refresh the basics of bots and in particular what can be accomplished simply via the intent/slot functionality, vs what requires a lambda hook. But my process ended up not being in ordnung (in order) sufficiently to demonstrate that. I mean with the flower shop one I could have, but I really wanted was focused on the response card functionality, and not having that... also the class time was quickly running out, and so on.
+
 # Acknowledgements
 
 I would like to first acknowledge the guidance and teaching of our FinTech Boot Camp Instructor, Garth Mortensen, our T.A. Roberto Salazar Reyna; our Student Success Manager, Angelica Baraona; and the whole team behind the curriculum, the logistics, the whole program. I also found the collective Stack Overflow wisdom essential as ever. In addition, I'm starting to work through the 'AWS Certified Cloud Practitioner - Study Guide -Foundational  (CLF-C01) Exam' text by Sybex (Wiley). And I have the 518 page Amazon Lex guide, so there's that. 
