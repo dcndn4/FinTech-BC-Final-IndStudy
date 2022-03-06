@@ -121,6 +121,7 @@ The slots in the left bar are the more detailed constructions of the custom slot
 
 ## Termination:
 My notes from that first AWS homework/class period indicated that it was optimal to terminate services, but that's just too much work right now. Hoping that my usage will be minimal enough that I can skip that step and still not incur any costs. So far A-okay!
+From final day presentations: some classmates utilized AWS, and reviewed the termination steps - very helpful! For the storage item, will have to empty it and then delete it. So far am not using a notebook. They didn't cover the bot, so will have to grapple with that myself when the time comes (ha ha). 
 
 ## AWS Interface
 
