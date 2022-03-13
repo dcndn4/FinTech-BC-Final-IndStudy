@@ -125,7 +125,7 @@ From final day presentations: some classmates utilized AWS, and reviewed the ter
 
 ### Suspending process for now, and terminations
 
-I am going to step away from this all for now, have started review of all things Python which interests me more even at this point. 
+I am going to step away from this all for now, have started review of all things Python which interests me more even at this point. Also my next step in this reminder-bot process seems to be to delve deeper into the whole permissions functionality of AWS, and right now at work I'm immersed in permissions functionality within the software in use there, and I don't want to have dueling permissions frameworks in my head. So releasing this all for now. 
 
 But I'm thinking to leave my existing bots in place for now, to check billing regularly, but I feel like they might not be as cost-involved as other elements. Will also try and review my materials about that. But I've got stuff in place with those etc.. just would be easier to be able to pop back in at will.
 
