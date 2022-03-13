@@ -123,6 +123,14 @@ The slots in the left bar are the more detailed constructions of the custom slot
 My notes from that first AWS homework/class period indicated that it was optimal to terminate services, but that's just too much work right now. Hoping that my usage will be minimal enough that I can skip that step and still not incur any costs. So far A-okay!
 From final day presentations: some classmates utilized AWS, and reviewed the termination steps - very helpful! For the storage item, will have to empty it and then delete it. So far am not using a notebook. They didn't cover the bot, so will have to grapple with that myself when the time comes (ha ha). 
 
+### Suspending process for now, and terminations
+
+I am going to step away from this all for now, have started review of all things Python which interests me more even at this point. 
+
+But I'm thinking to leave my existing bots in place for now, to check billing regularly, but I feel like they might not be as cost-involved as other elements. Will also try and review my materials about that. But I've got stuff in place with those etc.. just would be easier to be able to pop back in at will.
+
+Storage bins - will empty (gah) and delete (gah) those though, as I think more costs might be involved with those. And all I had done was put things in, so will just need to put things in again, not a specific unique detail to recreate or anything.
+
 ## AWS Interface
 
 Every time I start up with AWS again, even after just a day or two, it's like 'what is all of this?', 'where are my things??' etc etc..I decided not to terminate services so that I could start up again more easily each session, but even so.. Long story short - when I search for 'AWS Lex' the result is a screen has 'Amazon Lex' in a big splash screen, and it says 'get started'.. and I'm like - I've already started though?! So originally it was very perplexing. But now I just go ahead and  'New Start' or whatever the wording is, then I get to my existing bot(s). Whew!
