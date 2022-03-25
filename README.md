@@ -46,6 +46,8 @@ With this work I'm planning to again utilize the Amazon Lex function for the cha
 
 []  Year End Cycle - Pay Pal 1099 form - reconcile to internal records
 
+[]  Review employee transit card balances, load in additional funds equal to prior quarter or more if usage warrants. 
+
 []  Monthly Cycle - Sales Tax review of any internet purchases from small vendors - record transactions for reporting
 
 
