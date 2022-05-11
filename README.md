@@ -21,13 +21,10 @@ Here's how that would work (maybe a subsequent activity after this project itera
 
 So I'm thinking to consider both sorts of functionalities.
 
-Another set of functionalities would be the remind-other-staff set -- maybe would be a whole different robot though.. or a robot that informed the main reminder-robot. So details to work out yet, but this would be about all the accounting system elements that I need from other staff in order to do my job.. which they know I need, but they haven't provided within the specified time frame. Which is fine, of course. They're all very busy as well of course. So they can rest easy knowing I'll remind them when it's past time. 
+Another set of functionalities would be the remind-other-staff set -- maybe would be a whole different robot though.. or a robot that informed the main reminder-robot. Just spitballing..
 
 <img src="Images/clean-desk-fresh.jpg" alt="fresh clean desk" width="10%" height="10%"/>
 
-But being aware of what isn't 'in' yet as soon as possible (always better to do sooner than later, so info is fresh in their minds etc..) is an ongoing challenge -- if I want until I actually need to urgently use it, then I might not have the right tone in the communication because it's throwing off my day, etc.. So I need to constantly scan kind of for things that are past due, and provide the most positive, constructive reminders possible to others. (This may need to be deleting sooner than later I'm realizing). So that robot aspect would be questions to me about what has been turned in, and when I answer no, then it provides me with a list potentially of reminders to send out. 
-
-With this work I'm planning to again utilize the Amazon Lex function for the chat box, the s3 buckets to hold the icons, and the lambda functionality to screen/process the data, adding to the knowledge acquired earlier.  
 
 # Task List - Accounting/Finance employee of business
 
